@@ -1,0 +1,14 @@
+html{ background-color: #E5E68E;} 
+div.a{ background-color: black;}
+div.b{ background-color: gray;}
+div.c{ background-color: white;}
+
+h1{ color: white;}
+p.aa{ color: white;}
+p.bb{ color: black;}
+a{ color: white;}
+.floatright {
+float: right;}
+.alignright {
+	float: right;
+}
